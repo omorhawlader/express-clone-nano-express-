@@ -1,0 +1,23 @@
+{
+  "name": "nanoexpress",
+  "version": "1.0.0",
+  "description": "This nanoexpress framework to learn how to make framework like express.",
+  "main": "nanoExpress.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "exprss",
+    "node"
+  ],
+  "author": "omor hawlader (omar)",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  },
+  "dependencies": {
+    "array-flatten": "^3.0.0",
+    "methods": "^1.1.2",
+    "setprototypeof": "^1.2.0"
+  }
+}
